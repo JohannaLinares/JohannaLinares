@@ -1,0 +1,46 @@
+.borde {
+    border: 1px;
+    border-style: dashed;
+    border-color: black;
+}
+
+.header {
+    height: 100px;
+    background-color: #BFFFF0;
+}
+
+.slider {
+    height: 100px;
+    background-color: #9ADCFF;
+}
+
+.caja-1 {
+    height: 550px;
+    background-color: #FF5733;
+}
+
+.caja-2 {
+    height: 550px;
+    background-color: #FFB2A6;
+}
+
+.info {
+    height: 200px;
+    background-color: #FFE4C0;
+}
+
+.caja-triple{
+    height: 450px;
+}
+
+.contacto {
+    text-align: center;
+    height: 100px;
+    background-color: #95CD41;
+}
+
+
+.footer {
+    height: 50px;
+    background-color: #EDEDED;
+}
